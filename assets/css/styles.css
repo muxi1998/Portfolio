@@ -281,6 +281,10 @@ img {
   fill: var(--first-color);
 }
 
+.home__blob-img{
+  width: 210px;
+}
+
 /*==================== BUTTONS ====================*/
 
 
