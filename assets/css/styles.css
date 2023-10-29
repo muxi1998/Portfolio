@@ -433,6 +433,11 @@ img {
   transition: .4s;
 }
 
+.skills__list{
+  row-gap: 1.5rem;
+  padding-left: 2.7rem;
+}
+
 .skills__titles{
   display: flex;
   justify-content: space-between;
@@ -462,7 +467,6 @@ img {
 .skills__cplusplus{
   width: 90%;
 }
-
 .skills__python{
   width: 85%;
 }
@@ -470,15 +474,12 @@ img {
 .skills__transformer{
   width: 70%;
 }
-
 .skills__gan{
   width: 80%;
 }
-
 .skills__lstm{
   width: 80%;
 }
-
 .skills__cnn{
   width: 60%;
 }
@@ -486,9 +487,22 @@ img {
 .skills__secondbrain{
   width: 90%;
 }
-
 .skills__zettelkasten{
   width: 70%;
+}
+
+.skills__close .skills__list{
+  height: 0;
+  overflow: hidden;
+}
+
+.skills__open .skills__list{
+  height: max-content;
+  margin-bottom: var(--mb-2-5);
+}
+
+.skills__open .skills__arrow{
+  transform: rotate(-180deg);
 }
 
 /*==================== QUALIFICATION ====================*/
