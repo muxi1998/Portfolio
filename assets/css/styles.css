@@ -1014,6 +1014,9 @@ img {
   .nav__menu{
     padding: 2rem .25rem 4rem;
   }
+  .nav__list{
+    column-gap: 0;
+  }
 }
 
 /* For medium devices */
