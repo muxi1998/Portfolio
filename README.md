@@ -4,7 +4,7 @@ Setup my own portfolio website
 ### 1. 個人資料
 * 姓名：陳沐希 MuXi, Chen
 * 聯絡方式：0966096831 / louis19980927@gmail.com。
-* LinkedIn/個人網站：如果有，可以提供這些連結。
+* LinkedIn/個人網站：https://www.linkedin.com/in/chenmuxi/
 ### 2. 職業目標或簡介
 * 簡短：一至兩句話，明確說明您尋求的職位類型或職業目標。
 * 專業定位：指出您作為人工智慧專業人士的特點。
