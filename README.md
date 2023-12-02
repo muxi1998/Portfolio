@@ -1,5 +1,6 @@
 # Portfolio
 Setup my own portfolio website
+sick day
 
 ### 1. 個人資料
 * 姓名：陳沐希 MuXi, Chen
