@@ -175,15 +175,6 @@ img {
   background-color: var(--body-color);
 }
 
-.header{
-  width: 100%;
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  z-index: var(--z-fixed);
-  background-color: var(--body-color);
-}
-
 /*==================== NAV ====================*/
 .nav{
   max-width: 968px;
@@ -1064,6 +1055,17 @@ img {
 }
 
 /* For medium devices */
-
+@media screen and (min-width: 568px){
+  .home__content{
+    grid-template-columns: max-content 1fr 1fr;
+  }
+  .home__data{
+    grid-column: initial;
+  }
+  .home__img{
+    order: 1;
+    justify-self: center;
+  }
+}
 
 /* For large devices */
