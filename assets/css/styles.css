@@ -507,10 +507,19 @@ img {
 }
 
 .skills__cplusplus{
-  width: 90%;
+  width: 80%;
 }
 .skills__python{
-  width: 85%;
+  width: 80%;
+}
+.skills__linux{
+  width: 70%;
+}
+.skills__docker{
+  width: 75%;
+}
+.skills__html{
+  width: 40%;
 }
 
 .skills__transformer{
